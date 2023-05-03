@@ -2,7 +2,7 @@ package edu.cscc;
 import java.util.Arrays;
 import java.util.Scanner;
 
-// Megan Garcia-Basanez, 2/15/2023, Grocery list
+// Grocery List
 
 public class Main {
     private static Scanner input = new Scanner(System.in);
